@@ -32,21 +32,25 @@ REST Countries API: The application fetches data from the REST Countries API, pr
 1. Clone the Repository:
 
 
-git clone https://github.com/PandiriSid/Explore-World.git
-
-cd ExploreWorld
+  git clone https://github.com/PandiriSid/Explore-World.git
+  
+  cd ExploreWorld
 
 2. Install Dependencies:
 
-npm install
+  npm install
 
 3. Start the Development Server:
 
-npm start
+  npm start
 ## Live Demo
 
 You can access a live version of the project here: https://exploreworldbysid.netlify.app/
 ## Webiste Outputs
+![image](https://github.com/user-attachments/assets/e785f196-bd9b-459e-a397-c4a8f742dd11)
+![image](https://github.com/user-attachments/assets/d0a40a43-d05c-4c30-8400-f6764ee4ffcf)
+![image](https://github.com/user-attachments/assets/fba890a2-f093-4f64-ba68-02c09d624881)
+![image](https://github.com/user-attachments/assets/d31114f6-3927-42af-88fb-d4513bc9ff27)
 
 
 ## Impact and Value:
