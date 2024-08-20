@@ -1,5 +1,5 @@
 
-# Explore and Learn World with Fun
+# Explore and Learn World Countries with Fun
 
 ExploreWorld is an interactive web application that allows users to explore and learn about different countries around the world. Users can search for countries by name or filter them by continent, making it easy to discover key information such as population, region, and capital. The application is built using modern web technologies including HTML, CSS, JavaScript, and React, offering a fast and responsive user experience.
 
